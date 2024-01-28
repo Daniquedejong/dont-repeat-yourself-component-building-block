@@ -1,6 +1,6 @@
 
 # Visual thinking filteren
-<img src='https://github.com/Daniquedejong/i-love-web-app/assets/112856683/d4906b17-5f60-4e3c-8efc-bfef2681de57' width=50%>
+<img src='https://github.com/Daniquedejong/dont-repeat-yourself-component-building-block/assets/112856683/0bb988a9-05b8-4299-ae28-3deb12635352' width=50%>
 
 ## 📚 Inhoudsopgave
 
